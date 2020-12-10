@@ -1,6 +1,7 @@
 # Library-Management-System
 A Library management system is a software that uses to maintain the record of the library.
 It contains work like the new registration in the library, the books is issued or returning or renewing a book etc.
+
 Basic Components of Library Automation System-
 1. Computer System
 2. Networking Device
@@ -13,7 +14,8 @@ Environment : Python
 Packages :
                 1. tkinter
                 2. pymysql
-                
+
+Steps :
                 
 Open MySQL.
 
